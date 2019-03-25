@@ -1,0 +1,18 @@
+label {
+    font-weight: bold;
+    font-size: 16px;
+    color: red;
+}
+img{
+    position: relative;
+    left : 0 px;
+    top : 0 px; 
+}
+btn-info{
+    background-color: red;
+    padding: 10dp;
+}
+req-sync{
+    background-color: red;
+    padding: 10dp;
+}
